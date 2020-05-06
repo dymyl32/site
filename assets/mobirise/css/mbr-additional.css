@@ -2315,6 +2315,49 @@ section.lazy-placeholder:after {
 .cid-rY6RycFzaD .card-title {
   text-align: center;
 }
+.cid-rYfExSu4Rj {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rYfExSu4Rj .card-box {
+  padding: 0 2rem;
+}
+.cid-rYfExSu4Rj .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rYfExSu4Rj .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rYfExSu4Rj h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rYfExSu4Rj p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rYfExSu4Rj .mbr-text {
+  color: #ffffff;
+}
+.cid-rYfExSu4Rj .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rYfExSu4Rj .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rYfExSu4Rj .card-title {
+  text-align: center;
+}
 .cid-rXiuRdoFWo {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -6856,6 +6899,49 @@ section.lazy-placeholder:after {
 .cid-rXH1gGggEr .mbr-text,
 .cid-rXH1gGggEr .mbr-section-btn {
   text-align: left;
+}
+.cid-rYevUjUUTH {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rYevUjUUTH .card-box {
+  padding: 0 2rem;
+}
+.cid-rYevUjUUTH .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rYevUjUUTH .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rYevUjUUTH h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rYevUjUUTH p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rYevUjUUTH .mbr-text {
+  color: #ffffff;
+}
+.cid-rYevUjUUTH .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rYevUjUUTH .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rYevUjUUTH .card-title {
+  text-align: center;
 }
 .cid-rXH1gGFjME {
   padding-top: 0px;
