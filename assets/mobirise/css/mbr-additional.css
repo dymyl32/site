@@ -732,6 +732,21 @@ section.lazy-placeholder:after {
 .cid-rXBw7gTgqt .mbr-section-title {
   text-align: left;
 }
+.cid-rYmkTNOAMd {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rYmkTNOAMd .mbr-iconfont-social {
+  font-size: 32px;
+  color: #149dcc;
+}
+.cid-rYmkTNOAMd .social-list a:focus {
+  text-decoration: none;
+}
+.cid-rYmkTNOAMd H2 {
+  text-align: center;
+}
 .cid-rXdqNBayHk .navbar {
   background: #ffffff;
   transition: none;
