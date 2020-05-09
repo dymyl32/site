@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AVCursos Online",
-    "currentPage": "Beleza.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -49,8 +49,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n<!-- Global site tag (gtag.js) - Google Ads: 1067621710 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-1067621710\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-1067621710');\n</script>\n\n\n",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-165851303-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-165851303-1');\n</script>\n\n<!-- Global site tag (gtag.js) - Google Ads: 1067621710 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-1067621710\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-1067621710');\n</script>"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n<!-- Global site tag (gtag.js) - Google Ads: 1067621710 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-1067621710\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-1067621710');\n</script>\n\n\n\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-165851303-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-165851303-1');\n</script>\n\n<!-- Global site tag (gtag.js) - Google Ads: 1067621710 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-1067621710\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-1067621710');\n</script>\n<link rel=\"canonical\" href=\"https://www.avcursos.com.br/index.html”>"
   },
   "pages": {
     "index.html": {
