@@ -8740,6 +8740,30 @@ section.lazy-placeholder:after {
   padding-bottom: 0px;
   background-color: #ed859f;
 }
+.cid-rYHZAL3qIp {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rYHZAL3qIp .line {
+  background-color: #232323;
+  color: #232323;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rYHZAL3qIp .section-text {
+  padding: 2rem 0;
+  color: #465052;
+}
+.cid-rYHZAL3qIp .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rYHZAL3qIp .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rYHSdtrmxS {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -8776,6 +8800,9 @@ section.lazy-placeholder:after {
 }
 .cid-rYHSdtrmxS .card-title {
   text-align: center;
+}
+.cid-rYHSdtrmxS P {
+  color: #4f4943;
 }
 .cid-rYHTcsS7QL {
   padding-top: 0px;
