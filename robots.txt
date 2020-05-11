@@ -9,6 +9,7 @@ Disallow: /cgi-bin
 
   gtag('config', 'AW-1067621710');
 </script>
+ <script id='pixel-script-poptin' src='https://cdn.popt.in/pixel.js?id=56879bae3b814' async='true'></script> 
 
 
 
