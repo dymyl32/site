@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "AVCursos Online",
-    "currentPage": "page14.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#ff7f9f",
+        "primaryColor": "#149dcc",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -24,7 +24,7 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": []
