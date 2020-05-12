@@ -12,10 +12,3 @@ Disallow: /cgi-bin
 
 
 
-
-
-
-
-
-
-
