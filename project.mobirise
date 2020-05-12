@@ -40,7 +40,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 224,
+    "uniqCompNum": 227,
     "versionPublish": "4.12.3",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -10153,9 +10153,10 @@
     },
     "page14.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "MamaeCompleta",
-        "order": 1
+        "meta_descr": "O maior, melhor e mais completo\ncurso de maternidade do Brasil\nMamãe de primeira viagem?\nCheia de dúvidas e incertezas?\nCalma, nossa equipe de 11 médicos especialistas vai te ajudar. ",
+        "title": "Mamãe Completa",
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/mmclogo-2000x1339.png"
       },
       "components": [
         {
