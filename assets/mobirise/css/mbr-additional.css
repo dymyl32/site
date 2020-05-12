@@ -8791,10 +8791,49 @@ section.lazy-placeholder:after {
 .cid-rYHNPoXeqZ DIV {
   text-align: right;
 }
-.cid-rYHWQgvmGm {
+.cid-rYNDfbpRY6 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ed859f;
+}
+.cid-rYNDfbpRY6 .card-box {
+  padding: 0 2rem;
+}
+.cid-rYNDfbpRY6 .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rYNDfbpRY6 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rYNDfbpRY6 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rYNDfbpRY6 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rYNDfbpRY6 .mbr-text {
+  color: #767676;
+}
+.cid-rYNDfbpRY6 .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ed859f;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rYNDfbpRY6 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rYNDfbpRY6 .card-title {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-rYI4CUvedT {
   padding-top: 0px;
