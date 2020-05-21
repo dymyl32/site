@@ -10621,11 +10621,11 @@
             },
             "H1": {
               "text-align": "left",
-              "color": "#ff3366"
+              "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left",
-              "color": "#ff3366"
+              "color": "#ff7f9f"
             },
             "DIV": {
               "text-align": "left"
@@ -10724,7 +10724,8 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
+              "padding": "2rem 0",
+              "color": "#232323"
             },
             ".inner-container": {
               "margin": "0 auto"
