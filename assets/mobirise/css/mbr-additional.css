@@ -9010,6 +9010,70 @@ section.lazy-placeholder:after {
 .cid-rYHTaLcSwW .card-title {
   text-align: center;
 }
+.cid-rZFmwWfI1c {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/vitaminaspsd-2000x1000.png");
+}
+@media (min-width: 992px) {
+  .cid-rZFmwWfI1c .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rZFmwWfI1c .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rZFmwWfI1c .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rZFmwWfI1c .mbr-text,
+.cid-rZFmwWfI1c .mbr-section-btn {
+  text-align: center;
+}
+.cid-rZFqFTQn7G {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rZFqFTQn7G h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rZFqFTQn7G p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rZFqFTQn7G .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rZFqFTQn7G .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rZFqFTQn7G .mbr-text {
+  color: #767676;
+}
+.cid-rZFqFTQn7G .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rZFqFTQn7G .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rZFqFTQn7G .card-title {
+  text-align: center;
+}
+.cid-rZFqFTQn7G .mbr-text,
+.cid-rZFqFTQn7G .mbr-section-btn {
+  text-align: center;
+}
 .cid-rXdqNBayHk .navbar {
   background: #ffffff;
   transition: none;
@@ -9422,68 +9486,4 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.cid-rZFmwWfI1c {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/vitaminaspsd-2000x1000.png");
-}
-@media (min-width: 992px) {
-  .cid-rZFmwWfI1c .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rZFmwWfI1c .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-rZFmwWfI1c .mbr-section-title {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-rZFmwWfI1c .mbr-text,
-.cid-rZFmwWfI1c .mbr-section-btn {
-  text-align: center;
-}
-.cid-rZFqFTQn7G {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rZFqFTQn7G h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rZFqFTQn7G p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-  padding-top: 2rem;
-}
-.cid-rZFqFTQn7G .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-rZFqFTQn7G .mbr-section-btn a {
-  margin: 0;
-}
-.cid-rZFqFTQn7G .mbr-text {
-  color: #767676;
-}
-.cid-rZFqFTQn7G .card-wrapper {
-  height: 100%;
-}
-@media (max-width: 767px) {
-  .cid-rZFqFTQn7G .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
-.cid-rZFqFTQn7G .card-title {
-  text-align: center;
-}
-.cid-rZFqFTQn7G .mbr-text,
-.cid-rZFqFTQn7G .mbr-section-btn {
-  text-align: center;
 }
