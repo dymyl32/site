@@ -9074,6 +9074,43 @@ section.lazy-placeholder:after {
 .cid-rZFqFTQn7G .mbr-section-btn {
   text-align: center;
 }
+.cid-rZFUqfqD5A {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rZFUqfqD5A h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rZFUqfqD5A p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rZFUqfqD5A .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rZFUqfqD5A .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rZFUqfqD5A .mbr-text {
+  color: #767676;
+}
+.cid-rZFUqfqD5A .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rZFUqfqD5A .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rZFUqfqD5A .card-title {
+  text-align: center;
+}
 .cid-rXdqNBayHk .navbar {
   background: #ffffff;
   transition: none;
